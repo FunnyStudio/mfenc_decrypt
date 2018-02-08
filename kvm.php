@@ -24,7 +24,7 @@ define("DEBUG", "vv");
 // Discuz 内部模拟
 // define("IN_DISCUZ", true);
 // define("IN_ADMINCP", true);
-// define("DISCUZ_ROOT", ' C:\Users\computer\PhpstormProjects\untitled');
+// define("DISCUZ_ROOT", 'C:\Users\computer\PhpstormProjects\untitled');
 
 /**
  * @param $obj object
